@@ -493,3 +493,89 @@
 2025-03-26T21:57:57.702Z - Initial value detected: "(2)"
 2025-03-26T21:57:57.824Z - Browser closed
 2025-03-26T21:57:57.824Z - Set up recurring checks every 5 minutes
+2025-03-26T22:12:04.590Z - Starting TCDD monitoring service
+2025-03-26T22:12:04.593Z - Starting new check...
+2025-03-26T22:12:05.536Z - Navigating to TCDD website...
+2025-03-26T22:12:11.620Z - Clicked on departure input
+2025-03-26T22:12:12.241Z - Typed departure text: ANKARA GAR, ANKARA
+2025-03-26T22:12:14.269Z - Selected first departure item from dropdown
+2025-03-26T22:12:15.358Z - Clicked on arrival input
+2025-03-26T22:12:15.728Z - Typed arrival text: SELÇUKLU YHT (KONYA), KONYA
+2025-03-26T22:12:17.752Z - Selected first arrival item from dropdown
+2025-03-26T22:12:18.769Z - Clicked on Gidiş Tarihi to open calendar
+2025-03-26T22:12:20.309Z - Selected a date from calendar
+2025-03-26T22:12:21.443Z - Clicked search button
+2025-03-26T22:12:30.442Z - Navigation timeout, but continuing...
+2025-03-26T22:12:30.443Z - Error during process: Attempted to use detached Frame 'FC809C8AF6159A16B6A2CA666385368F'.
+2025-03-26T22:12:30.443Z - Error during site check: Protocol error (Page.captureScreenshot): Session closed. Most likely the page has been closed.
+2025-03-26T22:12:30.542Z - Browser closed
+2025-03-26T22:12:30.542Z - Set up recurring checks every 5 minutes
+2025-03-26T22:12:38.653Z - Starting TCDD monitoring service
+2025-03-26T22:12:38.656Z - Starting new check...
+2025-03-26T22:12:39.568Z - Navigating to TCDD website...
+2025-03-26T22:12:44.944Z - Clicked on departure input
+2025-03-26T22:12:45.529Z - Typed departure text: ANKARA GAR, ANKARA
+2025-03-26T22:12:47.829Z - Clicked on departure dropdown item with XPath: //*[@id="gidis-98"]
+2025-03-26T22:12:48.950Z - Clicked on arrival input
+2025-03-26T22:12:49.354Z - Typed arrival text: SELÇUKLU YHT (KONYA), KONYA
+2025-03-26T22:12:51.553Z - Clicked on arrival dropdown item with XPath: //*[@id="donus-1336"]
+2025-03-26T22:12:52.578Z - Clicked on Gidiş Tarihi to open calendar
+2025-03-26T22:12:54.242Z - Selected March 29, 2025 from calendar
+2025-03-26T22:12:56.997Z - Clicked search button
+2025-03-26T22:12:59.092Z - Initial value detected: "(2)"
+2025-03-26T22:12:59.266Z - Browser closed
+2025-03-26T22:12:59.266Z - Set up recurring checks every 5 minutes
+2025-03-26T22:17:59.263Z - Starting new check...
+2025-03-26T22:18:00.426Z - Navigating to TCDD website...
+2025-03-26T22:18:07.940Z - Clicked on departure input
+2025-03-26T22:18:08.605Z - Typed departure text: ANKARA GAR, ANKARA
+2025-03-26T22:18:10.824Z - Clicked on departure dropdown item with XPath: //*[@id="gidis-98"]
+2025-03-26T22:18:11.926Z - Clicked on arrival input
+2025-03-26T22:18:12.342Z - Typed arrival text: SELÇUKLU YHT (KONYA), KONYA
+2025-03-26T22:18:14.533Z - Clicked on arrival dropdown item with XPath: //*[@id="donus-1336"]
+2025-03-26T22:18:15.556Z - Clicked on Gidiş Tarihi to open calendar
+2025-03-26T22:18:17.348Z - Selected March 29, 2025 from calendar
+2025-03-26T22:18:20.066Z - Clicked search button
+2025-03-26T22:18:22.242Z - No change detected. Current value: "(2)"
+2025-03-26T22:18:22.377Z - Browser closed
+2025-03-26T22:20:43.403Z - Starting TCDD monitoring service
+2025-03-26T22:20:43.405Z - Starting new check...
+2025-03-26T22:20:44.250Z - Navigating to TCDD website...
+2025-03-26T22:20:49.130Z - Clicked on departure input
+2025-03-26T22:20:49.695Z - Typed departure text: ANKARA GAR, ANKARA
+2025-03-26T22:20:52.026Z - Clicked on departure dropdown item with XPath: //*[@id="gidis-98"]
+2025-03-26T22:20:53.117Z - Clicked on arrival input
+2025-03-26T22:20:53.488Z - Typed arrival text: SELÇUKLU YHT (KONYA), KONYA
+2025-03-26T22:20:55.781Z - Clicked on arrival dropdown item with XPath: //*[@id="donus-1336"]
+2025-03-26T22:20:56.795Z - Clicked on Gidiş Tarihi to open calendar
+2025-03-26T22:20:58.599Z - Selected March 29, 2025 from calendar
+2025-03-26T22:21:00.086Z - Clicked search button
+2025-03-26T22:21:02.609Z - Initial value detected: "(2)"
+2025-03-26T22:21:02.710Z - Browser closed
+2025-03-26T22:21:02.710Z - Set up recurring checks every 5 minutes
+2025-03-26T22:26:02.708Z - Starting new check...
+2025-03-26T22:26:03.900Z - Navigating to TCDD website...
+2025-03-26T22:26:21.390Z - Clicked on departure input
+2025-03-26T22:26:22.006Z - Typed departure text: ANKARA GAR, ANKARA
+2025-03-26T22:26:24.346Z - Clicked on departure dropdown item with XPath: //*[@id="gidis-98"]
+2025-03-26T22:26:25.434Z - Clicked on arrival input
+2025-03-26T22:26:25.866Z - Typed arrival text: SELÇUKLU YHT (KONYA), KONYA
+2025-03-26T22:26:28.097Z - Clicked on arrival dropdown item with XPath: //*[@id="donus-1336"]
+2025-03-26T22:26:29.115Z - Clicked on Gidiş Tarihi to open calendar
+2025-03-26T22:26:30.888Z - Selected March 29, 2025 from calendar
+2025-03-26T22:26:32.353Z - Clicked search button
+2025-03-26T22:26:33.901Z - No change detected. Current value: "(2)"
+2025-03-26T22:26:34.007Z - Browser closed
+2025-03-26T22:31:02.704Z - Starting new check...
+2025-03-26T22:31:04.015Z - Navigating to TCDD website...
+2025-03-26T22:31:10.873Z - Clicked on departure input
+2025-03-26T22:31:11.449Z - Typed departure text: ANKARA GAR, ANKARA
+2025-03-26T22:31:13.752Z - Clicked on departure dropdown item with XPath: //*[@id="gidis-98"]
+2025-03-26T22:31:14.865Z - Clicked on arrival input
+2025-03-26T22:31:15.243Z - Typed arrival text: SELÇUKLU YHT (KONYA), KONYA
+2025-03-26T22:31:17.541Z - Clicked on arrival dropdown item with XPath: //*[@id="donus-1336"]
+2025-03-26T22:31:18.567Z - Clicked on Gidiş Tarihi to open calendar
+2025-03-26T22:31:20.379Z - Selected March 29, 2025 from calendar
+2025-03-26T22:31:21.809Z - Clicked search button
+2025-03-26T22:31:24.001Z - No change detected. Current value: "(2)"
+2025-03-26T22:31:24.138Z - Browser closed
